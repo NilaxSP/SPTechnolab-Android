@@ -1,4 +1,4 @@
-package com.example.myfristproject;
+package com.example.a;
 
 import android.os.Bundle;
 import android.app.Activity;
